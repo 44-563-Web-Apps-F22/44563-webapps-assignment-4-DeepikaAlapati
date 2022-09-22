@@ -1,57 +1,41 @@
-h4{
-    font-size:15px;
+body{
+    background-color:pink;
 }
 p:hover {
-    background-color:Light Gray;
-  }
+    background-color:rgb(210, 215, 223);
+}
+    h5
+    {
+        color:#333;
+    }
+h2:hover{
+    color:rgb(132, 31, 226);
+}
+  
+h2{
+    color:rgb(144, 60, 43);
+    text-shadow: 3px 3px 5px;
+}
 h4{
-    color:palevioletred;
-}
+    color:rgb(175, 66, 202);}
+
 h3{
-    color:black;
-}
+    color:rgb(105, 90, 160);}
 h3{
-    font-size:20px;
-}
+    font-size:20px;}
 
 p{
-    color:beige
-}
+    color:rgb(124, 39, 89);}
 span{
-    color:papayawhip;
-}
+    color:green;}
 span:hover{
-    background-color:plum;
-}
+    background-color:aquamarine;}
 h3{
-    font-style: italic;
-}
+    font-style: italic;}
 
 h4{
-    font-style: inherit;
-}
-.chorus{
-font-size:20px;
-color:honeydew;
-}
-.hello{
-    font-size:20;
-    color:powderblue;
-}
-.character{
-    font-size:15px;
-    color:lavender;
-}
-.FIA{
-    font-size:15px;
-    color:lavenderblush;
-}
-.MAR{
-    font-size:15px;
-    color:lavenderblush;
-}
-.GIU{
-    font-size:15px;
-    color:lavenderblush;
-
+    font-style: inherit;}
+.love{
+    font-size:  20px;
+    color:rgba(35, 11, 42, 0.592);
 }

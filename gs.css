@@ -39,3 +39,57 @@ h4{
     font-size:  20px;
     color:rgba(35, 11, 42, 0.592);
 }
+table{
+    border-style: double;
+}
+th, td {
+    border: solid 1px rgb(114, 108, 108);
+  }
+th {
+   color:purple;
+      }
+      td{
+        color:rgb(127, 43, 130);
+      }
+       tr:nth-child(even) {
+        background-color:rgb(135, 83, 214);
+      }
+      td {
+        text-align: center;
+        }
+        th{
+            color:rgb(140, 38, 149);
+        }
+        td {
+            width: 100px;
+            padding:0px 0px 0px 0px;
+            margin: -28px 0px -10px 100px;
+            background: rgb(199, 236, 210);
+            border-top: 2px solid rgb(249, 172, 172);
+            border-right: 4px dashed rgb(213, 200, 200);
+            border-bottom: 8px double rgb(214, 214, 155);
+            border-left: 16px inset purple;
+         }
+      ul {
+        list-style-type: none;
+        margin: 3px;
+        padding: 3 px;
+        overflow: hidden;
+        background-color: rgb(192, 93, 109);
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: rgb(232, 226, 226);
+        text-align: center;
+        padding: 13px 16px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color:rgb(157, 94, 178);
+      }

@@ -1,0 +1,56 @@
+h4{
+    font-size:15px;
+}
+p:hover {
+    background-color:Light Gray;
+  }
+h4{
+    color:palevioletred;
+}
+h3{
+    color:black;
+}
+h3{
+    font-size:20px;
+}
+
+p{
+    color:beige
+}
+span{
+    color:papayawhip;
+}
+span:hover{
+    background-color:plum;
+}
+h3{
+    font-style: italic;
+}
+
+h4{
+    font-style: inherit;
+}
+.chorus{
+font-size:20px;
+color:honeydew;
+}
+.hello{
+    font-size:20;
+    color:powderblue;
+}
+.character{
+    font-size:15px;
+    color:lavender;
+}
+.FIA{
+    font-size:15px;
+    color:lavenderblush;
+}
+.MAR{
+    font-size:15px;
+    color:lavenderblush;
+}
+.GIU{
+    font-size:15px;
+    color:lavenderblush;
+}
